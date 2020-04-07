@@ -10,5 +10,5 @@ First install pipenv. Then:
 
 ```
 pipenv install
-pipenv run "python xxx.py"
+pipenv run "python code/xxx.py"
 ``
